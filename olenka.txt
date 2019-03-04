@@ -1,0 +1,8 @@
+1,Magic,Borg,3,100,100,   
+2,Fight,Huns,3,120,120,   
+3,Mystery,Ferengi,3,150,150,   
+4,Magic,Vandals,9,200,200,   
+5,Mystery,Borg ,7,90,90,   
+6,Fight,Goths,8,45,45,   
+7,Magic,Franks,10,200,200,   
+8,Fight,Sith,10,150,150, 
